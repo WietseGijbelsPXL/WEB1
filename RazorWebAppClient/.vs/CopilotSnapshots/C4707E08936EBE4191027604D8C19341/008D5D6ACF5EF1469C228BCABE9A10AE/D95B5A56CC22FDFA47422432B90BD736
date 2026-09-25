@@ -1,0 +1,11 @@
+﻿@page
+@model RazorWebAppClient.Pages.NieuweKlantModel
+@{
+}
+<form method="post">
+    <div class="form-group">
+        <label for="KlantNaam">KlantNaam</label>
+        <input type="text" class="form-control" id="KlantNaam" name="KlantNaam" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Toevoegen</button>
+</form>

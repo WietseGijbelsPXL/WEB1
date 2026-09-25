@@ -1,0 +1,4 @@
+wwwroot\default.html
+wwwroot\test.html
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\WebApplication1\WebApplication1\wwwroot\default.html
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\WebApplication1\WebApplication1\wwwroot\test.html

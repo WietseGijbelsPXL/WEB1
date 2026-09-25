@@ -1,0 +1,25 @@
+﻿@page
+@model WebApplication1.Pages.IndexModel
+@{
+    var name = string.Empty;
+    if (Request.HasFormContentType)
+    {
+        name = Request.Form["name"];
+    }
+    <div style="margin-top:30px;">
+        <form method="post">
+            <div>Name: <input name="name" /></div>
+            <br />
+            <div>
+                <input type="submit" />
+                @Html.AntiForgeryToken()
+            </form>
+        </div>
+        <div>
+            @if (!string.IsNullOrEmpty(name))
+            {
+                <p>Hello, @name!</p>
+            }
+        </div>
+        <a asp-page="Wietse">Go to Wietse page</a>
+    }
