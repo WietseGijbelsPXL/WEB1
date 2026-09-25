@@ -5,32 +5,34 @@
     var rowId = 0;
 }
 <div class="text-center">
-    <a class=" nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
+    <a class=" nav-link text-dark" asp-area="" asp-page="/NieuweKlant">Klant Toevoegen</a>
     <h1 class="display-4">Klanten</h1>
     <p>Dit is de klantpagina.</p>
-@foreach(var klant in klanten)
-{
-    <div>
-        <h3>klantid: @klant.KlantId</h3>
-        <h4>klantnaam: @klant.KlantNaam</h4>
-    </div>
-}
-<table class="table table-striped">
-    <thead>
-        <tr>
-            <th scope="col">#</th>
-            <th scope="col">KlantId</th>
-            <th scope="col">KlantNaam</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach(var klant in klanten)
-        {
-            rowId++;
+    @foreach (var klant in klanten)
+    {
+        <div>
+            <h3>klantid: @klant.KlantId</h3>
+            <h4>klantnaam: @klant.KlantNaam</h4>
+        </div>
+    }
+    <table class="table table-striped">
+        <thead>
             <tr>
-                <th scope="row">@rowId</th>
-                <td>@klant.KlantId</td>
-                <td>@klant.KlantNaam</td>
+                <th scope="col">#</th>
+                <th scope="col">KlantId</th>
+                <th scope="col">KlantNaam</th>
             </tr>
-        }
+        </thead>
+        <tbody>
+            @foreach (var klant in klanten)
+            {
+                rowId++;
+                <tr>
+                    <th scope="row">@rowId</th>
+                    <td>@klant.KlantId</td>
+                    <td>@klant.KlantNaam</td>
+                </tr>
+            }
+        </tbody>
+    </table>
 </div>

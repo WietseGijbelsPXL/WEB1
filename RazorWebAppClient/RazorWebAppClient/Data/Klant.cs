@@ -5,6 +5,7 @@
         public int KlantId { get; set; }
         public string KlantNaam { get; set; }
         public bool GevalideerdeKlant => (KlantId > -1);
+        public int LocatieId { get; set; }
 
         public Klant()
         {
@@ -12,10 +13,11 @@
             KlantNaam = string.Empty;
         }
 
-        public Klant(int id, string naam)
+        public Klant(int id, string naam, int locatieId)
         {
             KlantId = id;
             KlantNaam = naam;
+            LocatieId = locatieId;
         }
     }
 }

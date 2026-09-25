@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RazorWebAppClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c753a88183c48fce6dc03d709082848d407791a")]
 [assembly: System.Reflection.AssemblyProductAttribute("RazorWebAppClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RazorWebAppClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

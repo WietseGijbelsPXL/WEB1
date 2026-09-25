@@ -1,38 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Mobile\\RazorWebAppClient\\",
+  "WorkspaceRootPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2FEAE5E-B6B6-46DE-A0C3-995D9C0BFD91}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\mobile\\razorwebappclient\\razorwebappclient\\pages\\nieuweklant.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2FEAE5E-B6B6-46DE-A0C3-995D9C0BFD91}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\pages\\nieuweklant.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\razorwebappclient\\razorwebappclient\\pages\\locatie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\pages\\locatie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2FEAE5E-B6B6-46DE-A0C3-995D9C0BFD91}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\mobile\\razorwebappclient\\razorwebappclient\\pages\\nieuweklant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2FEAE5E-B6B6-46DE-A0C3-995D9C0BFD91}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\pages\\nieuweklant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\razorwebappclient\\razorwebappclient\\pages\\klantlocatieoverzicht.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\pages\\klantlocatieoverzicht.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2FEAE5E-B6B6-46DE-A0C3-995D9C0BFD91}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\mobile\\razorwebappclient\\razorwebappclient\\data\\databank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2FEAE5E-B6B6-46DE-A0C3-995D9C0BFD91}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\data\\databank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\razorwebappclient\\razorwebappclient\\data\\databank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\data\\databank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2FEAE5E-B6B6-46DE-A0C3-995D9C0BFD91}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\mobile\\razorwebappclient\\razorwebappclient\\pages\\klant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2FEAE5E-B6B6-46DE-A0C3-995D9C0BFD91}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\pages\\klant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\razorwebappclient\\razorwebappclient\\pages\\nieuweklant.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\pages\\nieuweklant.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2FEAE5E-B6B6-46DE-A0C3-995D9C0BFD91}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\mobile\\razorwebappclient\\razorwebappclient\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2FEAE5E-B6B6-46DE-A0C3-995D9C0BFD91}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\razorwebappclient\\razorwebappclient\\pages\\nieuweklant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\pages\\nieuweklant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2FEAE5E-B6B6-46DE-A0C3-995D9C0BFD91}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\mobile\\razorwebappclient\\razorwebappclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2FEAE5E-B6B6-46DE-A0C3-995D9C0BFD91}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\razorwebappclient\\razorwebappclient\\data\\klant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\data\\klant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2FEAE5E-B6B6-46DE-A0C3-995D9C0BFD91}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\mobile\\razorwebappclient\\razorwebappclient\\data\\klant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2FEAE5E-B6B6-46DE-A0C3-995D9C0BFD91}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\data\\klant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\razorwebappclient\\razorwebappclient\\pages\\nieuwelocatie.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\pages\\nieuwelocatie.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2FEAE5E-B6B6-46DE-A0C3-995D9C0BFD91}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\mobile\\razorwebappclient\\razorwebappclient\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2FEAE5E-B6B6-46DE-A0C3-995D9C0BFD91}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\razorwebappclient\\razorwebappclient\\pages\\nieuwelocatie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\pages\\nieuwelocatie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\razorwebappclient\\razorwebappclient\\pages\\klant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\pages\\klant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\razorwebappclient\\razorwebappclient\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\razorwebappclient\\razorwebappclient\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\razorwebappclient\\razorwebappclient\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\razorwebappclient\\razorwebappclient\\data\\locatie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\data\\locatie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\razorwebappclient\\razorwebappclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C29DF2-0338-47E0-2BC4-4C4255824F89}|RazorWebAppClient\\RazorWebAppClient.csproj|solutionrelative:razorwebappclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,77 +66,147 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KlantLocatieOverzicht.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Pages\\KlantLocatieOverzicht.cshtml",
+              "RelativeDocumentMoniker": "RazorWebAppClient\\Pages\\KlantLocatieOverzicht.cshtml",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Pages\\KlantLocatieOverzicht.cshtml*",
+              "RelativeToolTip": "RazorWebAppClient\\Pages\\KlantLocatieOverzicht.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T12:39:58.062Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NieuweLocatie.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Pages\\NieuweLocatie.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorWebAppClient\\Pages\\NieuweLocatie.cshtml.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Pages\\NieuweLocatie.cshtml.cs",
+              "RelativeToolTip": "RazorWebAppClient\\Pages\\NieuweLocatie.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T12:31:56.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NieuweLocatie.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Pages\\NieuweLocatie.cshtml",
+              "RelativeDocumentMoniker": "RazorWebAppClient\\Pages\\NieuweLocatie.cshtml",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Pages\\NieuweLocatie.cshtml",
+              "RelativeToolTip": "RazorWebAppClient\\Pages\\NieuweLocatie.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T12:30:49.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "RazorWebAppClient\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "RazorWebAppClient\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-09-25T12:28:20.794Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Locatie.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Pages\\Locatie.cshtml",
+              "RelativeDocumentMoniker": "RazorWebAppClient\\Pages\\Locatie.cshtml",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Pages\\Locatie.cshtml",
+              "RelativeToolTip": "RazorWebAppClient\\Pages\\Locatie.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T12:20:39.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Locatie.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Data\\Locatie.cs",
+              "RelativeDocumentMoniker": "RazorWebAppClient\\Data\\Locatie.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Data\\Locatie.cs",
+              "RelativeToolTip": "RazorWebAppClient\\Data\\Locatie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T12:18:21.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "NieuweKlant.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Mobile\\RazorWebAppClient\\RazorWebAppClient\\Pages\\NieuweKlant.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Pages\\NieuweKlant.cshtml.cs",
               "RelativeDocumentMoniker": "RazorWebAppClient\\Pages\\NieuweKlant.cshtml.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Mobile\\RazorWebAppClient\\RazorWebAppClient\\Pages\\NieuweKlant.cshtml.cs*",
-              "RelativeToolTip": "RazorWebAppClient\\Pages\\NieuweKlant.cshtml.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Pages\\NieuweKlant.cshtml.cs",
+              "RelativeToolTip": "RazorWebAppClient\\Pages\\NieuweKlant.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-22T13:04:34.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "NieuweKlant.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Mobile\\RazorWebAppClient\\RazorWebAppClient\\Pages\\NieuweKlant.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Pages\\NieuweKlant.cshtml",
               "RelativeDocumentMoniker": "RazorWebAppClient\\Pages\\NieuweKlant.cshtml",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Mobile\\RazorWebAppClient\\RazorWebAppClient\\Pages\\NieuweKlant.cshtml*",
-              "RelativeToolTip": "RazorWebAppClient\\Pages\\NieuweKlant.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Pages\\NieuweKlant.cshtml",
+              "RelativeToolTip": "RazorWebAppClient\\Pages\\NieuweKlant.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-22T12:58:21.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Klant.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Mobile\\RazorWebAppClient\\RazorWebAppClient\\Pages\\Klant.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Pages\\Klant.cshtml",
               "RelativeDocumentMoniker": "RazorWebAppClient\\Pages\\Klant.cshtml",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Mobile\\RazorWebAppClient\\RazorWebAppClient\\Pages\\Klant.cshtml",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Pages\\Klant.cshtml",
               "RelativeToolTip": "RazorWebAppClient\\Pages\\Klant.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAB8AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-22T12:16:13.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Mobile\\RazorWebAppClient\\RazorWebAppClient\\Pages\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "RazorWebAppClient\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Mobile\\RazorWebAppClient\\RazorWebAppClient\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Pages\\Index.cshtml",
               "RelativeToolTip": "RazorWebAppClient\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-22T12:12:09.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Mobile\\RazorWebAppClient\\RazorWebAppClient\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "RazorWebAppClient\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Mobile\\RazorWebAppClient\\RazorWebAppClient\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "RazorWebAppClient\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-22T12:11:09.828Z",
               "EditorCaption": ""
@@ -121,40 +215,39 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Databank.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Mobile\\RazorWebAppClient\\RazorWebAppClient\\Data\\Databank.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Data\\Databank.cs",
               "RelativeDocumentMoniker": "RazorWebAppClient\\Data\\Databank.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Mobile\\RazorWebAppClient\\RazorWebAppClient\\Data\\Databank.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Data\\Databank.cs",
               "RelativeToolTip": "RazorWebAppClient\\Data\\Databank.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-22T12:06:52.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Klant.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Mobile\\RazorWebAppClient\\RazorWebAppClient\\Data\\Klant.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Data\\Klant.cs",
               "RelativeDocumentMoniker": "RazorWebAppClient\\Data\\Klant.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Mobile\\RazorWebAppClient\\RazorWebAppClient\\Data\\Klant.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Data\\Klant.cs",
               "RelativeToolTip": "RazorWebAppClient\\Data\\Klant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-22T12:06:41.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Mobile\\RazorWebAppClient\\RazorWebAppClient\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Program.cs",
               "RelativeDocumentMoniker": "RazorWebAppClient\\Program.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Mobile\\RazorWebAppClient\\RazorWebAppClient\\Program.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\RazorWebAppClient\\RazorWebAppClient\\Program.cs",
               "RelativeToolTip": "RazorWebAppClient\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T12:01:10.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-22T12:01:10.604Z"
             }
           ]
         }

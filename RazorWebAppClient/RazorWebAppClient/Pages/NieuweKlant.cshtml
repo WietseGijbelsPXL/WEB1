@@ -1,11 +1,19 @@
 ﻿@page
 @model RazorWebAppClient.Pages.NieuweKlantModel
 @{
+    var locaties = RazorWebAppClient.Data.Databank.Locaties;
+    var selectListItems = locaties.Select(x =>
+    new SelectListItem()
+    {
+        Value = x.LocatieID.ToString(),
+        Text = x.Gemeente
+    });
 }
 <form method="post">
     <div class="form-group">
         <label for="KlantNaam">KlantNaam</label>
         <input name="KlantNaam" class="form-control" id="KlantNaam" required />
+        <select name="LocatieId" asp-items="selectListItems"></select>
     </div>
     <button type="submit" class="btn btn-primary">Toevoegen</button>
 </form>

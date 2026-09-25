@@ -1,0 +1,22 @@
+﻿@page
+@model RazorWebAppClient.Pages.KlantLocatieOverzichtModel
+@{
+}
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>KlantNaam</th>
+            <th>Locatie</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var klant in Data.Databank.Klanten)
+        {
+            var locatie = Data.Databank.Locaties.FirstOrDefault(l => l.LocatieID == klant.LocatieId);
+            <tr>
+                <td>@klant.KlantNaam</td>
+                <td>@(locatie != null ? locatie.Gemeente : "Onbekend")</td>
+            </tr>
+        }
+    </tbody>
+</table>

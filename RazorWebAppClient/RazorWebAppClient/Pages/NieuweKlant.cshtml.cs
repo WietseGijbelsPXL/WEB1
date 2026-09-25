@@ -13,7 +13,8 @@ namespace RazorWebAppClient.Pages
         public IActionResult OnPost()
         {
             string naam = Request.Form["KlantNaam"];
-            Databank.AddKlant(naam);
+            string locatieId = Request.Form["LocatieId"];
+            Databank.AddKlant(naam, int.Parse(locatieId));
             return RedirectToPage("/Klant");
         }
     }

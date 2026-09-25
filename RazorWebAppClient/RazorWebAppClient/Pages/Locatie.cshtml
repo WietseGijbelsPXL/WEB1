@@ -1,0 +1,28 @@
+﻿@page
+@model RazorWebAppClient.Pages.LocatieModel
+@{
+    var rowId = 0;
+}
+<a asp-page="/NieuweLocatie">Locatie Toevoegen</a>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>LocatieId</th>
+            <th>Postcode</th>
+            <th>LocatieNaam</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var locatie in Data.Databank.Locaties)
+        {
+            rowId++;
+            <tr>
+                <td>@rowId</td>
+                <td>@locatie.LocatieID</td>
+                <td>@locatie.Postcode</td>
+                <td>@locatie.Gemeente</td>
+            </tr>
+        }
+    </tbody>
+</table>
