@@ -1,4 +1,5 @@
 ﻿using WebAppMVCClientLocation.Models;
+using WebAppMVCClientLocation.ViewModels;
 
 namespace WebAppMVCClientLocation.Data
 {
@@ -21,14 +22,20 @@ namespace WebAppMVCClientLocation.Data
             };
         }
 
-        public static InsertResult AddClient(Client c)
+        public static void AddClient(Client c)
         {
-            return null;
+            Clients.Add(c);
         }
 
-        public static InsertResult AddLocation(Location l)
+        public static void AddLocation(LocationViewModel l)
         {
-            return null;
+            Location location = new Location
+            {
+                LocationId = Locations.Max(x => x.LocationId) + 1, // Generate a new ID based on the count
+                Postcode = l.PostCode,
+                City = l.City
+            };
+            Locations.Add(location);
         }
     }
 }

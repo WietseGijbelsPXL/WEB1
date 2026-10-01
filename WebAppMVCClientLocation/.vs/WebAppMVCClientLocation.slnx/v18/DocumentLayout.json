@@ -1,58 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\",
+  "WorkspaceRootPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\webappmvcclientlocation\\webappmvcclientlocation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\webappmvcclientlocation\\webappmvcclientlocation\\controllers\\clientlocations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\controllers\\clientlocations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\webappmvcclientlocation\\webappmvcclientlocation\\views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\webappmvcclientlocation\\webappmvcclientlocation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\webappmvcclientlocation\\webappmvcclientlocation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\webappmvcclientlocation\\webappmvcclientlocation\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\webappmvcclientlocation\\webappmvcclientlocation\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\webappmvcclientlocation\\webappmvcclientlocation\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\webappmvcclientlocation\\webappmvcclientlocation\\views\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\views\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\webappmvcclientlocation\\webappmvcclientlocation\\viewmodels\\clientlocationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\viewmodels\\clientlocationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\webappmvcclientlocation\\webappmvcclientlocation\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\webappmvcclientlocation\\webappmvcclientlocation\\views\\clientlocations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\views\\clientlocations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\webappmvcclientlocation\\webappmvcclientlocation\\views\\locations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\views\\locations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\webappmvcclientlocation\\webappmvcclientlocation\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\webappmvcclientlocation\\webappmvcclientlocation\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\webappmvcclientlocation\\webappmvcclientlocation\\data\\insertresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\data\\insertresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\webappmvcclientlocation\\webappmvcclientlocation\\views\\locations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\views\\locations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\webappmvcclientlocation\\webappmvcclientlocation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\webappmvcclientlocation\\webappmvcclientlocation\\views\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\views\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\webappmvcclientlocation\\webappmvcclientlocation\\views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\webappmvcclientlocation\\webappmvcclientlocation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\webappmvcclientlocation\\webappmvcclientlocation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\webappmvcclientlocation\\webappmvcclientlocation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\webappmvcclientlocation\\webappmvcclientlocation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\webappmvcclientlocation\\webappmvcclientlocation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\webappmvcclientlocation\\webappmvcclientlocation\\viewmodels\\clientlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\viewmodels\\clientlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\webappmvcclientlocation\\webappmvcclientlocation\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23565B8E-657A-AA07-692C-9E6808D9C84B}|WebAppMVCClientLocation\\WebAppMVCClientLocation.csproj|solutionrelative:webappmvcclientlocation\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,191 +66,185 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebAppMVCClientLocation\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAABUAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-29T13:42:22.131Z",
+              "Title": "ClientLocations.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Controllers\\ClientLocations.cs",
+              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Controllers\\ClientLocations.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Controllers\\ClientLocations.cs",
+              "RelativeToolTip": "WebAppMVCClientLocation\\Controllers\\ClientLocations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T15:37:25.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebAppMVCClientLocation\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-29T13:39:12.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\Clients\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Views\\Clients\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\Clients\\Create.cshtml",
-              "RelativeToolTip": "WebAppMVCClientLocation\\Views\\Clients\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-29T13:38:10.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\Clients\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Views\\Clients\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\Clients\\Index.cshtml",
-              "RelativeToolTip": "WebAppMVCClientLocation\\Views\\Clients\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-29T13:38:00.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ClientsController.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Controllers\\ClientsController.cs",
-              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Controllers\\ClientsController.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Controllers\\ClientsController.cs",
-              "RelativeToolTip": "WebAppMVCClientLocation\\Controllers\\ClientsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Title": "ClientLocationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\ViewModels\\ClientLocationViewModel.cs",
+              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\ViewModels\\ClientLocationViewModel.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\ViewModels\\ClientLocationViewModel.cs",
+              "RelativeToolTip": "WebAppMVCClientLocation\\ViewModels\\ClientLocationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T13:35:49.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "InsertResult.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Data\\InsertResult.cs",
-              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Data\\InsertResult.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Data\\InsertResult.cs",
-              "RelativeToolTip": "WebAppMVCClientLocation\\Data\\InsertResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T13:32:59.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Program.cs",
-              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Program.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Program.cs",
-              "RelativeToolTip": "WebAppMVCClientLocation\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T13:31:11.261Z",
+              "WhenOpened": "2026-10-01T15:33:41.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebAppMVCClientLocation\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\ClientLocations\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Views\\ClientLocations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\ClientLocations\\Index.cshtml",
+              "RelativeToolTip": "WebAppMVCClientLocation\\Views\\ClientLocations\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-29T13:26:21.649Z",
+              "WhenOpened": "2026-10-01T15:32:27.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebAppMVCClientLocation\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAMwAwAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T13:23:56.136Z",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\Clients\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Views\\Clients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\Clients\\Create.cshtml",
+              "RelativeToolTip": "WebAppMVCClientLocation\\Views\\Clients\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T15:21:14.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\Locations\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Views\\Locations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\Locations\\Create.cshtml",
+              "RelativeToolTip": "WebAppMVCClientLocation\\Views\\Locations\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T15:18:21.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\Locations\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Views\\Locations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\Locations\\Index.cshtml",
+              "RelativeToolTip": "WebAppMVCClientLocation\\Views\\Locations\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T15:12:47.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Database.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Data\\Database.cs",
-              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Data\\Database.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Data\\Database.cs",
-              "RelativeToolTip": "WebAppMVCClientLocation\\Data\\Database.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAAFAAAAAAAAAA==",
+              "Title": "LocationsController.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Controllers\\LocationsController.cs",
+              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Controllers\\LocationsController.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Controllers\\LocationsController.cs",
+              "RelativeToolTip": "WebAppMVCClientLocation\\Controllers\\LocationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T13:21:18.949Z",
+              "WhenOpened": "2026-10-01T15:08:46.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ClientLocation.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\ViewModels\\ClientLocation.cs",
-              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\ViewModels\\ClientLocation.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\ViewModels\\ClientLocation.cs",
-              "RelativeToolTip": "WebAppMVCClientLocation\\ViewModels\\ClientLocation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebAppMVCClientLocation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T15:06:07.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Data\\Database.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Data\\Database.cs",
+              "RelativeToolTip": "WebAppMVCClientLocation\\Data\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T13:19:49.46Z",
+              "WhenOpened": "2026-10-01T15:04:02.668Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\Clients\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Views\\Clients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\Clients\\Index.cshtml",
+              "RelativeToolTip": "WebAppMVCClientLocation\\Views\\Clients\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T13:38:00.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "WebAppMVCClientLocation\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:35:49.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Program.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Program.cs",
+              "RelativeToolTip": "WebAppMVCClientLocation\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:31:11.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebAppMVCClientLocation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T13:26:21.649Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Location.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Models\\Location.cs",
-              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Models\\Location.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Models\\Location.cs",
-              "RelativeToolTip": "WebAppMVCClientLocation\\Models\\Location.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppMVCClientLocation\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwBAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T13:18:55.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "WebAppMVCClientLocation\\Models\\Client.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\WebAppMVCClientLocation\\WebAppMVCClientLocation\\Models\\Client.cs",
-              "RelativeToolTip": "WebAppMVCClientLocation\\Models\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T13:18:11.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-29T13:23:56.136Z"
             }
           ]
         }

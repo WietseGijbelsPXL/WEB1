@@ -6,15 +6,21 @@ namespace WebAppMVCClientLocation.Controllers
 {
     public class ClientsController : Controller
     {
-        public IActionResult Index(List<Client> clients)
+        public IActionResult Index()
         {
-            return View(clients);
+            return View(Database.Clients);
         }
 
-        public IActionResult Create(Client client)
+        [HttpPost]
+        public IActionResult CreateClient(Client client)
         {
             Database.AddClient(client);
             return RedirectToAction("Index");
+        }
+
+        public IActionResult Create()
+        {
+            return View("Create");
         }
     }
 }
