@@ -1,0 +1,29 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+@model IEnumerable<Location>
+<h2>Locations</h2>
+<a asp-controller="Locations" asp-action="Create">Create New</a>
+<table>
+    <thead>
+        <tr>
+            <th>LocationId</th>
+            <th>PostCode</th>
+            <th>City</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Location location in Model)
+        {
+            <tr>
+                <td>@location.LocationId</td>
+                <td>@location.Postcode</td>
+                <td>@location.City</td>
+                <td><a>Edit | Details | Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

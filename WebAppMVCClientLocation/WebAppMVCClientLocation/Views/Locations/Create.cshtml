@@ -1,0 +1,15 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model WebAppMVCClientLocation.ViewModels.LocationViewModel
+<h1>Create</h1>
+<h2>Location</h2>
+<form asp-action="CreateLocation" method="post">
+    <label asp-for="PostCode"></label>
+    <input asp-for="PostCode" />
+    <label asp-for="City"></label>
+    <input asp-for="City" />
+    <button type="submit">Create</button>
+</form>

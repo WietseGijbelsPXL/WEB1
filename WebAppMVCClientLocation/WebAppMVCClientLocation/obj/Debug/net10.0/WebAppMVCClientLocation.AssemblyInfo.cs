@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAppMVCClientLocation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d351af8b2bbc4ef692ccb0ce0573b89614efe42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+048e4296c010e9dec793316a20800fa02b2fb0ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAppMVCClientLocation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAppMVCClientLocation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
