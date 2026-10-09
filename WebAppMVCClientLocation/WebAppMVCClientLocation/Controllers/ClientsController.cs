@@ -22,7 +22,7 @@ namespace WebAppMVCClientLocation.Controllers
         public IActionResult Create()
         {
             var locations = Database.Locations;
-            ViewBag.Combobox = new SelectList(locations, "Id", "City");
+            ViewBag.Combobox = new SelectList(locations, "LocationId", "City");
             return View("Create");
         }
     }
