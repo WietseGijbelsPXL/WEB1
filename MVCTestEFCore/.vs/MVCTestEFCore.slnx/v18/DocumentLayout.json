@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E84545-B7DE-3793-E077-C3EC3D9D027B}|MVCTestEFCore\\MVCTestEFCore.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\mvctestefcore\\mvctestefcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4E84545-B7DE-3793-E077-C3EC3D9D027B}|MVCTestEFCore\\MVCTestEFCore.csproj|solutionrelative:mvctestefcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E84545-B7DE-3793-E077-C3EC3D9D027B}|MVCTestEFCore\\MVCTestEFCore.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\mvctestefcore\\mvctestefcore\\controllers\\firsttablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E84545-B7DE-3793-E077-C3EC3D9D027B}|MVCTestEFCore\\MVCTestEFCore.csproj|solutionrelative:mvctestefcore\\controllers\\firsttablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E84545-B7DE-3793-E077-C3EC3D9D027B}|MVCTestEFCore\\MVCTestEFCore.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\mvctestefcore\\mvctestefcore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E84545-B7DE-3793-E077-C3EC3D9D027B}|MVCTestEFCore\\MVCTestEFCore.csproj|solutionrelative:mvctestefcore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E84545-B7DE-3793-E077-C3EC3D9D027B}|MVCTestEFCore\\MVCTestEFCore.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\mvctestefcore\\mvctestefcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4E84545-B7DE-3793-E077-C3EC3D9D027B}|MVCTestEFCore\\MVCTestEFCore.csproj|solutionrelative:mvctestefcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E84545-B7DE-3793-E077-C3EC3D9D027B}|MVCTestEFCore\\MVCTestEFCore.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\mvctestefcore\\mvctestefcore\\data\\localconnectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E84545-B7DE-3793-E077-C3EC3D9D027B}|MVCTestEFCore\\MVCTestEFCore.csproj|solutionrelative:mvctestefcore\\data\\localconnectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E84545-B7DE-3793-E077-C3EC3D9D027B}|MVCTestEFCore\\MVCTestEFCore.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\mvctestefcore\\mvctestefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E84545-B7DE-3793-E077-C3EC3D9D027B}|MVCTestEFCore\\MVCTestEFCore.csproj|solutionrelative:mvctestefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E84545-B7DE-3793-E077-C3EC3D9D027B}|MVCTestEFCore\\MVCTestEFCore.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\mvctestefcore\\mvctestefcore\\views\\firsttable\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4E84545-B7DE-3793-E077-C3EC3D9D027B}|MVCTestEFCore\\MVCTestEFCore.csproj|solutionrelative:mvctestefcore\\views\\firsttable\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E84545-B7DE-3793-E077-C3EC3D9D027B}|MVCTestEFCore\\MVCTestEFCore.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\jaar 2\\web 1\\mvctestefcore\\mvctestefcore\\models\\firsttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E84545-B7DE-3793-E077-C3EC3D9D027B}|MVCTestEFCore\\MVCTestEFCore.csproj|solutionrelative:mvctestefcore\\models\\firsttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCTestEFCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\appsettings.json",
+              "RelativeToolTip": "MVCTestEFCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-12T10:07:49.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCTestEFCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCTestEFCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T09:41:36.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\Views\\FirstTable\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCTestEFCore\\Views\\FirstTable\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\Views\\FirstTable\\Index.cshtml",
+              "RelativeToolTip": "MVCTestEFCore\\Views\\FirstTable\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAhwBUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T09:19:43.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstTableController.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\Controllers\\FirstTableController.cs",
+              "RelativeDocumentMoniker": "MVCTestEFCore\\Controllers\\FirstTableController.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\Controllers\\FirstTableController.cs",
+              "RelativeToolTip": "MVCTestEFCore\\Controllers\\FirstTableController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:15:25.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FirstTable.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\Models\\FirstTable.cs",
+              "RelativeDocumentMoniker": "MVCTestEFCore\\Models\\FirstTable.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\Models\\FirstTable.cs",
+              "RelativeToolTip": "MVCTestEFCore\\Models\\FirstTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:13:13.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\Program.cs",
+              "RelativeDocumentMoniker": "MVCTestEFCore\\Program.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\Program.cs",
+              "RelativeToolTip": "MVCTestEFCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:09:54.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LocalConnectionString.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\Data\\LocalConnectionString.cs",
+              "RelativeDocumentMoniker": "MVCTestEFCore\\Data\\LocalConnectionString.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\Data\\LocalConnectionString.cs",
+              "RelativeToolTip": "MVCTestEFCore\\Data\\LocalConnectionString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:05:39.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MVCTestEFCore\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MVCTestEFCore\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:02:51.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
