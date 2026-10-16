@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCFifa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5f25d944c6b9f62d6cdbf2b4c639a0c9fdae9b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0db8566973ece0e779d684f980e6b246e09a5ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCFifa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCFifa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

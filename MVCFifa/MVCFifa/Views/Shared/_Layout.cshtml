@@ -12,15 +12,19 @@
 <body>
     <header>
         <div class="text-center">
-            <img src="images/fifa.png"/>
+            <img src="images/fifa.png" />
         </div>
     </header>
     <div class="row">
-<div class="col-1"></div>
-<div class="col-3">
-<br/>
-<a asp-controller="Player" asp-action="Index">Players</a>
-</div>
+        <div class="col-1"></div>
+        <div class="col-3">
+            <br />
+            <a asp-controller="Player" asp-action="Index">Players</a>
+            <br />
+            <a asp-controller="Team" asp-action="Index">Teams</a>
+            <br />
+            <a asp-controller="TeamPlayer" asp-action="Index">Matches</a>
+        </div>
         <div class="col-8">
             @RenderBody()
         </div>
@@ -28,7 +32,7 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2026 - MVCFifa 
+            &copy; 2026 - MVCFifa
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
