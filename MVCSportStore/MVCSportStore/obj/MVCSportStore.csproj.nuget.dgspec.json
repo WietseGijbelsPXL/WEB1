@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj": {}
+    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj": {
+    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj",
+        "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj",
         "projectName": "MVCSportStore",
-        "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj",
-        "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCSportStore\\MVCSportStore\\obj\\",
+        "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj",
+        "packagesPath": "C:\\Users\\wiets\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wiets\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
