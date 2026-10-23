@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MVCSportStore</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/MVCSportStore.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="bg-dark text-white p-2">
+        <span class="navbar-brand m1-2">SPORT STORE</span>
+    </div>
+    <div class="row m-1 p-1">
+        <div id="categories" class="col-3">
+            Navigation menu
+        </div>
+        <div class="col-9">
+            @RenderBody()
+        </div>
+    </div>
+
+    <footer class="bg-dark text-white p-1 footer fixed-bottom">
+        <hr />
+        <span class="navbar-brand ml-2">
+            <a class="btn border border-secondary m-1 text-white" asp-controller="Home" asp-action="Index">
+                SportStore - Start page
+            </a>
+            <a class="btn border border-secondary m-1 text-white" asp-controller="Settings" asp-action="PagingSettingsView">
+                SportStore - Page settings
+            </a>
+        </span>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,469 @@
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.csproj.AssemblyReference.cache
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.AssemblyInfo.cs
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.RazorAssemblyInfo.cache
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.RazorAssemblyInfo.cs
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\appsettings.json
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\MVCSportStore.staticwebassets.runtime.json
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\MVCSportStore.staticwebassets.endpoints.json
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\MVCSportStore.exe
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\MVCSportStore.deps.json
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\MVCSportStore.runtimeconfig.json
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\MVCSportStore.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\MVCSportStore.pdb
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Humanizer.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.Identity.Client.Broker.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\linux-x64\native\libmsalruntime.so
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\osx-arm64\native\msalruntime_arm64.dylib
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\osx-x64\native\msalruntime.dylib
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\scopedcss\bundle\MVCSportStore.styles.css
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\scopedcss\projectbundle\MVCSportStore.bundle.scp.css
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\mlr7gzl8us-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\eahg8bxlyg-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\ysar9sf01n-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\r9nfky8gug-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\w8t98jys2h-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\ah7phn4upm-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\i4htsiefl6-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\ozasi8ejjl-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\qsce3wwz9o-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\p4x10z0wgp-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\f4n7271ryt-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\jexyptcanj-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\fhdhvaiehw-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\ndehjckgsn-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\5atk0bvvxm-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\m6pyvljbko-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\cxtt3gllmy-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\dc4suhpnsq-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\7gnhoim1cs-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\3v87g16993-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\588vsr8yuf-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\iis3pfh32e-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\040xg6iezd-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\0msd7rrcmh-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\gue12o19n7-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\goudail31p-{0}-06098lyss8-06098lyss8.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\k14s2qqhau-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\oa6wydbj0c-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\yj1spjz43c-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\nmp9a1ve4s-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\wg5gel1nmr-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\ma4hkg7bsw-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\ofx17tcba8-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\zg5rqgqgt7-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\4h05lhu40x-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\ker2ypqgmn-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\h5qg9d1eqa-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\gq20d2ovnv-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\o1wa9s8t2t-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\65e98e87h1-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\9nljtsjcbg-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\y5mqquqlhd-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\g0b5w4njgf-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\0rjmuwwx9n-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\ye07mvvgod-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\92h578liqc-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\nw535qc9h1-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\b3muy5j25k-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\hdqimsdu51-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\t1pez6i2km-{0}-356vix0kms-356vix0kms.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\931orv55cf-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\5lndsit35x-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\4n91zl1khc-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\272rjbte6e-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\bio0h6835h-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\ujwpme66my-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\em8qcn9qd2-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\3ihgjvtaq2-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\qm8oi6z8cn-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\gjxx93fzqm-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\p57uj1ehar-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\ocq79llivj-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\j9forihzbn-{0}-whakp0deon-whakp0deon.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\aoxqpsj9xn-{0}-whakp0deon-whakp0deon.gz
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSport.4A270D57.Up2Date
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\refint\MVCSportStore.dll
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.pdb
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.genruntimeconfig.cache
+C:\Users\loren\Desktop\PXL\CSharpWeb1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\ref\MVCSportStore.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\appsettings.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\MVCSportStore.staticwebassets.runtime.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\MVCSportStore.staticwebassets.endpoints.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\MVCSportStore.exe
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\MVCSportStore.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\MVCSportStore.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\MVCSportStore.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\MVCSportStore.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Humanizer.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.Identity.Client.Broker.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\linux-x64\native\libmsalruntime.so
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\osx-arm64\native\msalruntime_arm64.dylib
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\osx-x64\native\msalruntime.dylib
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.csproj.AssemblyReference.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.RazorAssemblyInfo.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.RazorAssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.sourcelink.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\scopedcss\bundle\MVCSportStore.styles.css
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\scopedcss\projectbundle\MVCSportStore.bundle.scp.css
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\mlr7gzl8us-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\eahg8bxlyg-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\ysar9sf01n-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\r9nfky8gug-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\w8t98jys2h-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\ah7phn4upm-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\i4htsiefl6-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\ozasi8ejjl-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\qsce3wwz9o-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\p4x10z0wgp-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\f4n7271ryt-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\jexyptcanj-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\fhdhvaiehw-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\ndehjckgsn-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\5atk0bvvxm-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\m6pyvljbko-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\cxtt3gllmy-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\dc4suhpnsq-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\7gnhoim1cs-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\3v87g16993-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\588vsr8yuf-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\iis3pfh32e-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\040xg6iezd-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\0msd7rrcmh-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\gue12o19n7-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\goudail31p-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\k14s2qqhau-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\oa6wydbj0c-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\yj1spjz43c-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\nmp9a1ve4s-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\wg5gel1nmr-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\ma4hkg7bsw-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\ofx17tcba8-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\zg5rqgqgt7-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\4h05lhu40x-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\ker2ypqgmn-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\h5qg9d1eqa-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\gq20d2ovnv-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\o1wa9s8t2t-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\65e98e87h1-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\9nljtsjcbg-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\y5mqquqlhd-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\g0b5w4njgf-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\0rjmuwwx9n-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\ye07mvvgod-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\92h578liqc-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\nw535qc9h1-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\b3muy5j25k-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\hdqimsdu51-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\t1pez6i2km-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\931orv55cf-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\5lndsit35x-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\4n91zl1khc-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\272rjbte6e-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\bio0h6835h-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\ujwpme66my-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\em8qcn9qd2-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\3ihgjvtaq2-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\qm8oi6z8cn-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\gjxx93fzqm-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\p57uj1ehar-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\ocq79llivj-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\j9forihzbn-{0}-whakp0deon-whakp0deon.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\compressed\aoxqpsj9xn-{0}-whakp0deon-whakp0deon.gz
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSport.4A270D57.Up2Date
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\refint\MVCSportStore.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\MVCSportStore.genruntimeconfig.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\Jaar 2\Web 1\MVCSportStore\MVCSportStore\obj\Debug\net10.0\ref\MVCSportStore.dll
