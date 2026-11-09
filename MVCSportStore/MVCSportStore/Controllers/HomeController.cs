@@ -17,9 +17,9 @@ namespace MVCSportStore.Controllers
             _repo = new ProductRepository(_context.Products);
         }
 
-        public IActionResult Index(int id = 1)
+        public IActionResult Index(int id = 1, string? category=null)
         {
-            var productModel = _repo.GetProductModel(id);
+            var productModel = _repo.GetProductModel(id,category);
             return View(productModel);
         }
 

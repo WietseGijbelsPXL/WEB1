@@ -1,0 +1,17 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<string>
+@foreach(string category in Model)
+{
+    <a class="btn btn-outline-secondary btn-block m-2"
+        asp-action="Index"
+        asp-controller="Home"
+        asp-route-id="1"
+        asp-route-category="@category">
+        @category
+    </a>
+    <br/>
+}
