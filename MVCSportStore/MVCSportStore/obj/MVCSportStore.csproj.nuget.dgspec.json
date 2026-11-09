@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj": {}
+    "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj": {
+    "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj",
+        "projectUniqueName": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj",
         "projectName": "MVCSportStore",
-        "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj",
+        "projectPath": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj",
         "packagesPath": "C:\\Users\\wiets\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\obj\\",
+        "outputPath": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

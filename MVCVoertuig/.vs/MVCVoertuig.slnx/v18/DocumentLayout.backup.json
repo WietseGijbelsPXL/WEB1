@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcvoertuig\\mvcvoertuig\\views\\voertuig\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|solutionrelative:mvcvoertuig\\views\\voertuig\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcvoertuig\\mvcvoertuig\\views\\shared\\voertuigcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|solutionrelative:mvcvoertuig\\views\\shared\\voertuigcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcvoertuig\\mvcvoertuig\\controllers\\voertuigcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|solutionrelative:mvcvoertuig\\controllers\\voertuigcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcvoertuig\\mvcvoertuig\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|solutionrelative:mvcvoertuig\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcvoertuig\\mvcvoertuig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|solutionrelative:mvcvoertuig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcvoertuig\\mvcvoertuig\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|solutionrelative:mvcvoertuig\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcvoertuig\\mvcvoertuig\\data\\voertuigdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|solutionrelative:mvcvoertuig\\data\\voertuigdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcvoertuig\\mvcvoertuig\\models\\voertuig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|solutionrelative:mvcvoertuig\\models\\voertuig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcvoertuig\\mvcvoertuig\\modelvalidations\\custombouwjaar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|solutionrelative:mvcvoertuig\\modelvalidations\\custombouwjaar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcvoertuig\\mvcvoertuig\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|solutionrelative:mvcvoertuig\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcvoertuig\\mvcvoertuig\\views\\voertuig\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{392107C7-CB28-93DE-48C6-011685E8E9AB}|MVCVoertuig\\MVCVoertuig.csproj|solutionrelative:mvcvoertuig\\views\\voertuig\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VoertuigCard.cshtml",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\Views\\Shared\\VoertuigCard.cshtml",
+              "RelativeDocumentMoniker": "MVCVoertuig\\Views\\Shared\\VoertuigCard.cshtml",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\Views\\Shared\\VoertuigCard.cshtml",
+              "RelativeToolTip": "MVCVoertuig\\Views\\Shared\\VoertuigCard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T16:34:06.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\Views\\Voertuig\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCVoertuig\\Views\\Voertuig\\Create.cshtml",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\Views\\Voertuig\\Create.cshtml",
+              "RelativeToolTip": "MVCVoertuig\\Views\\Voertuig\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T16:29:52.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\Views\\Voertuig\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCVoertuig\\Views\\Voertuig\\Index.cshtml",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\Views\\Voertuig\\Index.cshtml",
+              "RelativeToolTip": "MVCVoertuig\\Views\\Voertuig\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T16:29:00.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCVoertuig\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCVoertuig\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T16:25:46.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "MVCVoertuig\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\Data\\SeedData.cs",
+              "RelativeToolTip": "MVCVoertuig\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T16:23:47.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VoertuigController.cs",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\Controllers\\VoertuigController.cs",
+              "RelativeDocumentMoniker": "MVCVoertuig\\Controllers\\VoertuigController.cs",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\Controllers\\VoertuigController.cs",
+              "RelativeToolTip": "MVCVoertuig\\Controllers\\VoertuigController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:26:35.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomBouwjaar.cs",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\ModelValidations\\CustomBouwjaar.cs",
+              "RelativeDocumentMoniker": "MVCVoertuig\\ModelValidations\\CustomBouwjaar.cs",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\ModelValidations\\CustomBouwjaar.cs",
+              "RelativeToolTip": "MVCVoertuig\\ModelValidations\\CustomBouwjaar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:23:35.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Voertuig.cs",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\Models\\Voertuig.cs",
+              "RelativeDocumentMoniker": "MVCVoertuig\\Models\\Voertuig.cs",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\Models\\Voertuig.cs",
+              "RelativeToolTip": "MVCVoertuig\\Models\\Voertuig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:17:30.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\Program.cs",
+              "RelativeDocumentMoniker": "MVCVoertuig\\Program.cs",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\Program.cs",
+              "RelativeToolTip": "MVCVoertuig\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:04:03.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCVoertuig\\appsettings.json",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\appsettings.json",
+              "RelativeToolTip": "MVCVoertuig\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-09T15:02:56.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VoertuigDbContext.cs",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\Data\\VoertuigDbContext.cs",
+              "RelativeDocumentMoniker": "MVCVoertuig\\Data\\VoertuigDbContext.cs",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCVoertuig\\MVCVoertuig\\Data\\VoertuigDbContext.cs",
+              "RelativeToolTip": "MVCVoertuig\\Data\\VoertuigDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T14:53:27.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

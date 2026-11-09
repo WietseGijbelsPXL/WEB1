@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\MVCTestEFCore.csproj": {}
+    "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCTestEFCore\\MVCTestEFCore\\MVCTestEFCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\MVCTestEFCore.csproj": {
+    "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCTestEFCore\\MVCTestEFCore\\MVCTestEFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\MVCTestEFCore.csproj",
+        "projectUniqueName": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCTestEFCore\\MVCTestEFCore\\MVCTestEFCore.csproj",
         "projectName": "MVCTestEFCore",
-        "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\MVCTestEFCore.csproj",
-        "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Jaar 2\\Web 1\\MVCTestEFCore\\MVCTestEFCore\\obj\\",
+        "projectPath": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCTestEFCore\\MVCTestEFCore\\MVCTestEFCore.csproj",
+        "packagesPath": "C:\\Users\\wiets\\.nuget\\packages\\",
+        "outputPath": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCTestEFCore\\MVCTestEFCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wiets\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

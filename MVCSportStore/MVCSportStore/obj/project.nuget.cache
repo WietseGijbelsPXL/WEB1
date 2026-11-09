@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FUr1TGXd0oM=",
+  "dgSpecHash": "4Vf8gXrAmSI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj",
+  "projectFilePath": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\MVCSportStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wiets\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\wiets\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",

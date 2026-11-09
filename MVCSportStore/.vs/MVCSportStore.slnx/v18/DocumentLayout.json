@@ -1,33 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\",
+  "WorkspaceRootPath": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\views\\shared\\productsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\views\\shared\\productsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\views\\client\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\views\\client\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\views\\client\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\viewmodels\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\viewmodels\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\views\\client\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\views\\client\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\views\\client\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|c:\\wietse\\pxl\\jaar 2\\web1\\mvcsportstore\\mvcsportstore\\views\\client\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4AF8E062-31CA-EB91-C40E-0E0BCC71BE57}|MVCSportStore\\MVCSportStore.csproj|solutionrelative:mvcsportstore\\views\\client\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -38,15 +78,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCSportStore\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "MVCSportStore\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T16:33:35.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductSummary.cshtml",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Shared\\ProductSummary.cshtml",
+              "RelativeDocumentMoniker": "MVCSportStore\\Views\\Shared\\ProductSummary.cshtml",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Shared\\ProductSummary.cshtml",
+              "RelativeToolTip": "MVCSportStore\\Views\\Shared\\ProductSummary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T16:33:26.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Client\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCSportStore\\Views\\Client\\Create.cshtml",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Client\\Create.cshtml",
+              "RelativeToolTip": "MVCSportStore\\Views\\Client\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T16:17:36.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\ViewModels\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "MVCSportStore\\ViewModels\\ProductRepository.cs",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\ViewModels\\ProductRepository.cs",
+              "RelativeToolTip": "MVCSportStore\\ViewModels\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T16:12:54.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MVCSportStore\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MVCSportStore\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:20:53.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MVCSportStore\\Models\\Product.cs",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Models\\Product.cs",
+              "RelativeToolTip": "MVCSportStore\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:19:07.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "MVCSportStore\\Models\\Client.cs",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Models\\Client.cs",
+              "RelativeToolTip": "MVCSportStore\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:19:05.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Program.cs",
+              "RelativeDocumentMoniker": "MVCSportStore\\Program.cs",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Program.cs",
+              "RelativeToolTip": "MVCSportStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:04:06.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCSportStore\\appsettings.json",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\appsettings.json",
+              "RelativeToolTip": "MVCSportStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-09T15:02:59.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StoreDbContext.cs",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Data\\StoreDbContext.cs",
+              "RelativeDocumentMoniker": "MVCSportStore\\Data\\StoreDbContext.cs",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Data\\StoreDbContext.cs",
+              "RelativeToolTip": "MVCSportStore\\Data\\StoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:02:03.084Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCSportStore\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "MVCSportStore\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -55,81 +225,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SettingsController.cs",
-              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Controllers\\SettingsController.cs",
-              "RelativeDocumentMoniker": "MVCSportStore\\Controllers\\SettingsController.cs",
-              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Controllers\\SettingsController.cs",
-              "RelativeToolTip": "MVCSportStore\\Controllers\\SettingsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T12:30:58.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVCSportStore\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MVCSportStore\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-23T12:30:56.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Client\\Details.cshtml",
-              "RelativeDocumentMoniker": "MVCSportStore\\Views\\Client\\Details.cshtml",
-              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Client\\Details.cshtml",
-              "RelativeToolTip": "MVCSportStore\\Views\\Client\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-23T12:30:03.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Client\\Index.cshtml",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Client\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCSportStore\\Views\\Client\\Index.cshtml",
-              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Client\\Index.cshtml",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Client\\Index.cshtml",
               "RelativeToolTip": "MVCSportStore\\Views\\Client\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-23T12:27:39.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-23T12:27:39.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Client\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Client\\Edit.cshtml",
               "RelativeDocumentMoniker": "MVCSportStore\\Views\\Client\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Client\\Edit.cshtml",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Client\\Edit.cshtml",
               "RelativeToolTip": "MVCSportStore\\Views\\Client\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-23T12:26:17.115Z",
+              "WhenOpened": "2026-10-23T12:26:17.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "MVCSportStore\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "MVCSportStore\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T12:10:33.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClientController.cs",
-              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Controllers\\ClientController.cs",
-              "RelativeDocumentMoniker": "MVCSportStore\\Controllers\\ClientController.cs",
-              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Controllers\\ClientController.cs",
-              "RelativeToolTip": "MVCSportStore\\Controllers\\ClientController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Client\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCSportStore\\Views\\Client\\Details.cshtml",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Views\\Client\\Details.cshtml",
+              "RelativeToolTip": "MVCSportStore\\Views\\Client\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-23T12:30:03.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "MVCSportStore\\Controllers\\SettingsController.cs",
+              "ToolTip": "C:\\Wietse\\PXL\\Jaar 2\\WEB1\\MVCSportStore\\MVCSportStore\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "MVCSportStore\\Controllers\\SettingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T12:10:33.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-23T12:30:58.588Z"
             }
           ]
         }
